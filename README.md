@@ -12,6 +12,8 @@ Enthusiastic and innovative full-stack developer passionate about crafting dynam
 
 💻 My Portfolio https://patilashwini07.github.io/
 
+ 📄 Know about my: https://drive.google.com/file/d/1pZ7LE0LHQqdUQAPMBBuEzdF46i1-QIMz/view?usp=sharing
+
 <h3 align="center"><i>Tech Stack</i></h3>
 
 <p align="center">
